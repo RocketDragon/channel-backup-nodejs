@@ -1,0 +1,16 @@
+{
+  "name": "channel-backup-nodejs",
+  "version": "0.0.1",
+  "main": "run.js",
+  "repository": "https://github.com/RocketDragon/channel-backup-nodejs.git",
+  "author": "Junior <sudojunior@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "glob": "^7.1.6",
+    "ora": "^4.0.5"
+  }
+}
